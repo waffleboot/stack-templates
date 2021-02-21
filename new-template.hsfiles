@@ -115,3 +115,5 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 {-# START_FILE .gitignore #-}
 .stack-work/
 *~
+{-# START_FILE .ghci #-}
+:set prompt "$ "
